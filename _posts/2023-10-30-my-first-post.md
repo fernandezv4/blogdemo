@@ -9,4 +9,4 @@ date: 2023-10-30
 Halloween is **tomorrow.** I don't know if I should pick up a shift at work tomorrow. I don't think that I will.
 
 Please look at this photo of a banana.
-![A picture I uploaded](/blogdemo/Banana-Single.jpg)
+![photo of a banana](/blogdemo/Banana-Single.jpg)
