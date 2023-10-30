@@ -1,3 +1,5 @@
 theme: minima
 title: My Blog
 author: Vie Fernandez
+header_pages:
+  - about.md
