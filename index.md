@@ -8,4 +8,4 @@ Hello world
 
 [Here's a link to my first blog post](https://fernandezv4.github.io/blogdemo/2023/10/30/my-first-post.html)
 
-Here is my [special case](specialcase.html)
+Here is my [special case](https://fernandezv4.github.io/blogdemo/specialcase)
