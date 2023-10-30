@@ -1,7 +1,7 @@
-—
+---
 layout: page
 title: About
-—
+---
 
 Hej hej, my name is Vie Fernandez.
 
